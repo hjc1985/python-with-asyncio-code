@@ -1,0 +1,22 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+sources/
+logs/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+python.code-workspace
+.vscode
+.idea
+.DS_Store
+*.pyc
+*.log
